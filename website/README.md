@@ -36,3 +36,23 @@ Parser tests cover failures, invalid timestamps, measured duration, workload int
 The existing root `LICENSE` and TechEmpower copyright attribution are preserved. The public portal identifies itself as an independent Better Web derivative, links the original methodology and official results, and does not imply TechEmpower endorsement.
 
 The Sites Vite build plugin is retained for compatible packaging; production publication uses Wrangler as requested.
+
+## Published result archive
+
+The portal now mirrors 37 public datasets across TechEmpower rounds 3–23, with
+all available physical/cloud results, workload and sample controls, stack filters,
+latency, declared-baseline overhead, comparison and failure status. The guide
+contains introduction, motivation, hardware history, procedure, terminology,
+FAQ, publication archive and community resources in English and Portuguese.
+
+Run `node scripts/sync-official.mjs` explicitly to refresh public snapshots.
+Normal builds use checked-in JSON and do not fetch upstream data. Missing upstream
+cloud endpoints for rounds 12 and 14 are documented rather than fabricated.
+See CONTENT-REVIEW.md for the review against the original site.
+
+The interface follows better-web.org: dark surfaces, mint accents, Space Grotesk,
+Inter and JetBrains Mono, horizontal navigation, and high-density result tables.
+Development binds to 0.0.0.0:3001; localhost and IPv4 are both supported.
+Routes: `/`, `/frameworks`, `/runs`, `/methodology`, `/guide`, and `/pt` equivalents.
+Published results provide rankings, load curves, all-sample tables, latency and
+declared-baseline comparisons. Stack columns can be hidden; page size is adjustable.
