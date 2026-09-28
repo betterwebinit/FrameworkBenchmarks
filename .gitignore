@@ -70,3 +70,12 @@ benchmark.cfg
 # python
 .venv/
 frameworks/CSharp/akazawayun.pro/Dockerfile
+
+# Better Web portal
+website/dist/
+website/.wrangler/
+website/.vinext/
+website/*.tsbuildinfo
+
+!website/build/
+!website/build/sites-vite-plugin.ts

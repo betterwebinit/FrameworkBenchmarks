@@ -1,0 +1,11 @@
+{
+ "$schema":"./node_modules/wrangler/config-schema.json",
+ "name":"frameworkbenchmarks-website",
+ "account_id":"c74a8f099c0dbc20b300581478e9518e",
+ "main":"./worker/index.ts",
+ "compatibility_date":"2026-05-15",
+ "compatibility_flags":["nodejs_compat"],
+ "workers_dev":false,
+ "preview_urls":false,
+ "routes":[{"pattern":"frameworkbenchmarks.better-web.org","custom_domain":true}]
+}

@@ -1,0 +1,4 @@
+import type {Metadata} from 'next';
+import './globals.css';
+export const metadata:Metadata={metadataBase:new URL('https://frameworkbenchmarks.better-web.org'),title:'framework benchmarks — Choose with context.',description:'Explore web framework test coverage, compare implementations and inspect your real benchmark results. A Better Web portal built on TechEmpower Framework Benchmarks.',icons:{icon:'/favicon.png'},openGraph:{title:'framework benchmarks — Choose with context.',description:'Explore. Compare. Measure.',type:'website',images:[{url:'/og.png',width:1536,height:1024,alt:'framework benchmarks — Choose your stack with context.'}]},twitter:{images:['/og.png'],card:'summary_large_image',title:'framework benchmarks — Choose with context.'}};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>;}
