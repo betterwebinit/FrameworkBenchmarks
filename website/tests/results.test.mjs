@@ -3,6 +3,29 @@ import {strict as assert} from 'node:assert';
 import {parseResults,samplesAt} from '../app/results-parser.ts';
 import {selectedSample,milliseconds,baselineFor} from '../app/official-model.ts';
 import {readFileSync} from 'node:fs';
+import {technologyIcon} from '../app/technology-model.ts';
+import {frameworkArtwork} from '../app/framework-artwork.ts';
+test('technology logos distinguish related names and honor benchmark metadata',()=>{
+ assert.deepEqual(['C','c++','C#','CSharp','Java','Javascript'].map(name=>technologyIcon('language',name)),['c','cplusplus','csharp','csharp','java','javascript']);
+ assert.equal(technologyIcon('framework','Quarkus, Vert.x','quarkus'),'quarkus');
+ assert.equal(technologyIcon('framework','vertx-web-postgres'),'vertx');
+ for(const name of ['hyperexpress','springboard','warp-rust','constructor','unknown'])assert.equal(technologyIcon('framework',name),null);
+ assert.equal(technologyIcon('language','constructor'),null);
+ assert.equal(technologyIcon('framework','ntex [tokio,db]','ntex'),'framework-ntex.png');
+ assert.equal(technologyIcon('database','Postgres'),'postgresql');
+ assert.equal(technologyIcon('database','None'),null);
+ assert.equal(technologyIcon('os','Linux'),'linux');
+ assert.equal(technologyIcon('os','unknown'),null);
+});
+test('every registered framework image is local and present',()=>{
+ for(const filename of new Set(Object.values(frameworkArtwork))){
+  assert.match(filename,/^[a-z0-9-]+\.(svg|png|ico|jpg|webp)$/);
+  assert.ok(readFileSync(new URL(`../public/technology/${filename}`,import.meta.url)).length>0,filename);
+ }
+ const audit=JSON.parse(readFileSync(new URL('../public/technology/framework-coverage.json',import.meta.url)));
+ const catalog=JSON.parse(readFileSync(new URL('../public/catalog.json',import.meta.url)));
+ assert.deepEqual(audit.entries.map(e=>e.framework).sort(),catalog.rows.map(r=>r.name).sort());
+});
 const sample=(extra={})=>({totalRequests:30000,startTime:100,endTime:130,latencyAvg:'1.2ms',...extra});
 test('uses measured seconds and excludes failures and invalid timing',()=>{const file=parseResults({duration:1,rawData:{json:{fast:[sample()],failed:[sample()],zero:[sample({endTime:100})],invalid:[sample({totalRequests:'30000'})]}},failed:{json:['failed']}});const result=samplesAt(file,'json',0);assert.equal(result.rows.length,1);assert.equal(result.rows[0].rps,1000);assert.equal(result.skipped,3);});
 test('matches query workload intervals without treating metadata as measurements',()=>{const file=parseResults({queryIntervals:[1,5],rawData:{query:{framework:[sample(),sample({totalRequests:60000})]},slocCounts:{framework:100}}});assert.deepEqual(file.levels.query,[1,5]);assert.equal(samplesAt(file,'query',1).rows[0].rps,2000);assert.deepEqual(samplesAt(file,'query',2).rows,[]);});

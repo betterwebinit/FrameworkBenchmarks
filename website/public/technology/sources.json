@@ -1,0 +1,454 @@
+[
+  {
+    "id": "postgresql",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg"
+  },
+  {
+    "id": "mysql",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg"
+  },
+  {
+    "id": "mongodb",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mongodb/mongodb-original.svg"
+  },
+  {
+    "id": "linux",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg"
+  },
+  {
+    "id": "ubuntu",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ubuntu/ubuntu-original.svg"
+  },
+  {
+    "id": "debian",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/debian/debian-original.svg"
+  },
+  {
+    "id": "windows11",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/windows11/windows11-original.svg"
+  },
+  {
+    "id": "apple",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/apple/apple-original.svg"
+  },
+  {
+    "id": "redis",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/redis/redis-original.svg"
+  },
+  {
+    "id": "sqlite",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/sqlite/sqlite-original.svg"
+  },
+  {
+    "id": "mariadb",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mariadb/mariadb-original.svg"
+  },
+  {
+    "id": "microsoftsqlserver",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+  },
+  {
+    "id": "c",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/c/c-original.svg"
+  },
+  {
+    "id": "cplusplus",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cplusplus/cplusplus-original.svg"
+  },
+  {
+    "id": "csharp",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/csharp/csharp-original.svg"
+  },
+  {
+    "id": "clojure",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/clojure/clojure-original.svg"
+  },
+  {
+    "id": "crystal",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/crystal/crystal-original.svg"
+  },
+  {
+    "id": "dart",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/dart/dart-original.svg"
+  },
+  {
+    "id": "elixir",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/elixir/elixir-original.svg"
+  },
+  {
+    "id": "erlang",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/erlang/erlang-original.svg"
+  },
+  {
+    "id": "fsharp",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fsharp/fsharp-original.svg"
+  },
+  {
+    "id": "fortran",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fortran/fortran-original.svg"
+  },
+  {
+    "id": "go",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/go/go-original.svg"
+  },
+  {
+    "id": "groovy",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/groovy/groovy-original.svg"
+  },
+  {
+    "id": "haskell",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/haskell/haskell-original.svg"
+  },
+  {
+    "id": "java",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/java/java-original.svg"
+  },
+  {
+    "id": "javascript",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg"
+  },
+  {
+    "id": "julia",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/julia/julia-original.svg"
+  },
+  {
+    "id": "kotlin",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/kotlin/kotlin-original.svg"
+  },
+  {
+    "id": "lua",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/lua/lua-original.svg"
+  },
+  {
+    "id": "nim",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nim/nim-original.svg"
+  },
+  {
+    "id": "ocaml",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ocaml/ocaml-original.svg"
+  },
+  {
+    "id": "php",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/php/php-original.svg"
+  },
+  {
+    "id": "perl",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/perl/perl-original.svg"
+  },
+  {
+    "id": "prolog",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/prolog/prolog-original.svg"
+  },
+  {
+    "id": "python",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg"
+  },
+  {
+    "id": "r",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/r/r-original.svg"
+  },
+  {
+    "id": "racket",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/racket/racket-original.svg"
+  },
+  {
+    "id": "ruby",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ruby/ruby-original.svg"
+  },
+  {
+    "id": "rust",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rust/rust-original.svg"
+  },
+  {
+    "id": "scala",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/scala/scala-original.svg"
+  },
+  {
+    "id": "swift",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/swift/swift-original.svg"
+  },
+  {
+    "id": "typescript",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg"
+  },
+  {
+    "id": "vala",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vala/vala-original.svg"
+  },
+  {
+    "id": "visualbasic",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/visualbasic/visualbasic-original.svg"
+  },
+  {
+    "id": "zig",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/zig/zig-original.svg"
+  },
+  {
+    "id": "akka",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/akka/akka-original.svg"
+  },
+  {
+    "id": "bun",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/bun/bun-original.svg"
+  },
+  {
+    "id": "cakephp",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cakephp/cakephp-original.svg"
+  },
+  {
+    "id": "codeigniter",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/codeigniter/codeigniter-plain.svg"
+  },
+  {
+    "id": "denojs",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/denojs/denojs-original.svg"
+  },
+  {
+    "id": "django",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/django/django-plain.svg"
+  },
+  {
+    "id": "dotnetcore",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/dotnetcore/dotnetcore-original.svg"
+  },
+  {
+    "id": "dropwizard",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/dropwizard/dropwizard-original.svg"
+  },
+  {
+    "id": "express",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/express/express-original.svg"
+  },
+  {
+    "id": "fastapi",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastapi/fastapi-original.svg"
+  },
+  {
+    "id": "fastify",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fastify/fastify-original.svg"
+  },
+  {
+    "id": "feathersjs",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/feathersjs/feathersjs-original.svg"
+  },
+  {
+    "id": "fiber",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/fiber/fiber-original.svg"
+  },
+  {
+    "id": "flask",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/flask/flask-original.svg"
+  },
+  {
+    "id": "grails",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/grails/grails-original.svg"
+  },
+  {
+    "id": "ktor",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/ktor/ktor-original.svg"
+  },
+  {
+    "id": "laravel",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/laravel/laravel-original.svg"
+  },
+  {
+    "id": "nestjs",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-original.svg"
+  },
+  {
+    "id": "nextjs",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nextjs/nextjs-original.svg"
+  },
+  {
+    "id": "nginx",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nginx/nginx-original.svg"
+  },
+  {
+    "id": "nodejs",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg"
+  },
+  {
+    "id": "phalcon",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/phalcon/phalcon-original.svg"
+  },
+  {
+    "id": "phoenix",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/phoenix/phoenix-original.svg"
+  },
+  {
+    "id": "quarkus",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/quarkus/quarkus-original.svg"
+  },
+  {
+    "id": "rails",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/rails/rails-plain.svg"
+  },
+  {
+    "id": "spring",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/spring/spring-original.svg"
+  },
+  {
+    "id": "symfony",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/symfony/symfony-original.svg"
+  },
+  {
+    "id": "uwsgi",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/uwsgi/uwsgi-original.svg"
+  },
+  {
+    "id": "vertx",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/vertx/vertx-original.svg"
+  },
+  {
+    "id": "yii",
+    "collection": "Devicon v2.17.0",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/yii/yii-original.svg"
+  },
+  {
+    "id": "actix",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/actix.svg",
+    "source": "https://github.com/actix/actix-website/issues/18#issuecomment-393581556"
+  },
+  {
+    "id": "commonlisp",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/commonlisp.svg",
+    "source": "https://commons.wikimedia.org/wiki/File:Lisp_logo.svg"
+  },
+  {
+    "id": "d",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/d.svg",
+    "source": "https://github.com/dlang/dlang.org/blob/6d0e2e5f6a8249031cfd010e389b99ff014cd320/images/dlogo.svg"
+  },
+  {
+    "id": "v",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/v.svg",
+    "source": "https://github.com/vlang/v-logo/blob/eec050c901ed3afefce8cbe56092d55ed6770706/dist/v-logo.svg"
+  },
+  {
+    "id": "falcon",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/falcon.svg",
+    "source": "https://falconframework.org"
+  },
+  {
+    "id": "gin",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/gin.svg",
+    "source": "https://github.com/gin-gonic/logo/blob/eecb3150aa7ce5a77b97fd834276b2b6958eaa9d/wb.svg"
+  },
+  {
+    "id": "hono",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/hono.svg",
+    "source": "https://github.com/honojs/hono/blob/76dbc74407329c46870af6aa4fab0c04036d8ae2/docs/images/hono-logo.svg"
+  },
+  {
+    "id": "koa",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/koa.svg",
+    "source": "https://koajs.com"
+  },
+  {
+    "id": "rocket",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/rocket.svg",
+    "source": "https://rocket.rs"
+  },
+  {
+    "id": "rubysinatra",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/rubysinatra.svg",
+    "source": "https://github.com/sinatra/resources/tree/64c22f9b4bf2e52b5c0c875ba16671f295689efb/logo"
+  },
+  {
+    "id": "sanic",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/sanic.svg",
+    "source": "https://github.com/sanic-org/sanic-assets/blob/79af646b7948fdfdc3b2f98d8aeedf58eba34b5b/svg/sanic-framework-logo-mono-black.svg"
+  },
+  {
+    "id": "vapor",
+    "collection": "Simple Icons 15.0.0",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/15.0.0/icons/vapor.svg",
+    "source": "https://vapor.codes"
+  }
+]
